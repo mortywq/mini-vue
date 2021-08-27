@@ -105,7 +105,7 @@ const patch = (n1, n2) => {
         console.log(el)
       }
     } else {
-      if (oldChild === 'string') {
+      if (typeof oldChild === 'string') {
         el.innerHtml = '';
         newChild.forEach((item) => {
           mount(item, el);
