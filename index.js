@@ -21,3 +21,4 @@ function createApp(rootComponent) {
     }
   };
 }
+console.log('add');
