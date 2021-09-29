@@ -23,4 +23,4 @@ function createApp(rootComponent) {
 }
 console.log('delete');
 
-console.log('ceshi');
+console.log('demo');
