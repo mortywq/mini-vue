@@ -21,6 +21,3 @@ function createApp(rootComponent) {
     }
   };
 }
-console.log('delete');
-
-console.log('demo');
