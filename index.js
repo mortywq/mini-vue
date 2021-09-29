@@ -18,6 +18,7 @@ function createApp(rootComponent) {
           oldVNode = newVnode;
         }
       });
-    },
+    }
   };
 }
+console.log('delete');
