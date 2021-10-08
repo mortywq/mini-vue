@@ -24,3 +24,4 @@ function createApp(rootComponent) {
 console.log('add');
 console.log('ceshi');
 console.log('xiufu');
+console.log('xiufu2');
