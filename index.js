@@ -21,7 +21,4 @@ function createApp(rootComponent) {
     }
   };
 }
-console.log('修复');
-console.log('add');
-console.log('delete');
-console.log('ceshi2');
+
