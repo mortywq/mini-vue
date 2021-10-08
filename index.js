@@ -22,3 +22,4 @@ function createApp(rootComponent) {
   };
 }
 console.log('add');
+console.log('ceshi');
